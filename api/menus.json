@@ -1,0 +1,124 @@
+[
+  {
+    "name": "韓国風手巻おにぎり　　甘辛プルコギ",
+    "price": 165,
+    "allergens": [
+      "wheat",
+      "egg"
+    ],
+    "genle": "rice",
+    "energy": 219,
+    "store": [
+      "sevenEleven"
+    ]
+  },
+  {
+    "name": "味付海苔おにぎり　海老マヨネーズ",
+    "price": 150,
+    "allergens": [
+      "egg",
+      "milk",
+      "wheat",
+      "shrimps"
+    ],
+    "genle": "rice",
+    "energy": 241,
+    "store": [
+      "sevenEleven"
+    ]
+  },
+  {
+    "name": "手巻おにぎり　具たっぷり辛子明太子",
+    "price": 175,
+    "allergens": [],
+    "genle": "rice",
+    "energy": 172,
+    "store": [
+      "sevenEleven"
+    ]
+  },
+  {
+    "name": "手巻おにぎり　すじこ醤油漬け",
+    "price": 160,
+    "allergens": [
+      "wheat"
+    ],
+    "genle": "rice",
+    "energy": 175,
+    "store": [
+      "sevenEleven"
+    ]
+  },
+  {
+    "name": "手巻おにぎり　熟成紅すじこ　醤油麹仕立て",
+    "price": 170,
+    "allergens": [
+      "wheat"
+    ],
+    "genle": "rice",
+    "energy": 178,
+    "store": [
+      "sevenEleven"
+    ]
+  },
+  {
+    "name": "味付海苔海老マヨネーズこだわり卵のマヨネーズ",
+    "price": 145,
+    "allergens": [
+      "egg",
+      "milk",
+      "wheat",
+      "shrimps"
+    ],
+    "genle": "rice",
+    "energy": 249,
+    "store": [
+      "sevenEleven"
+    ]
+  },
+  {
+    "name": "手巻おにぎり　熟成旨味仕立て紀州南高梅",
+    "price": 125,
+    "allergens": [],
+    "genle": "rice",
+    "energy": 166,
+    "store": [
+      "sevenEleven"
+    ]
+  },
+  {
+    "name": "手巻おにぎり　炭火焼熟成紅しゃけ",
+    "price": 175,
+    "allergens": [],
+    "genle": "rice",
+    "energy": 175,
+    "store": [
+      "sevenEleven"
+    ]
+  },
+  {
+    "name": "手巻おにぎり　北海道産昆布",
+    "price": 120,
+    "allergens": [
+      "wheat"
+    ],
+    "genle": "rice",
+    "energy": 172,
+    "store": [
+      "sevenEleven"
+    ]
+  },
+  {
+    "name": "手巻おにぎり　ツナマヨネーズ",
+    "price": 140,
+    "allergens": [
+      "wheat",
+      "egg"
+    ],
+    "genle": "rice",
+    "energy": 259,
+    "store": [
+      "sevenEleven"
+    ]
+  }
+]
