@@ -1,0 +1,709 @@
+[
+  {
+    "name": "牛めし",
+    "allergens": [
+      "wheat"
+    ],
+    "price": 370,
+    "energy": 715.0,
+    "carbon": 91.5,
+    "lipid": 29.0,
+    "genre": "rice",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/gyumeshi/gyumeshi_hp_230321.html"
+  },
+  {
+    "name": "ネギたっぷり旨辛ネギたま牛めし",
+    "allergens": [
+      "wheat",
+      "egg"
+    ],
+    "price": 550,
+    "energy": 846.0,
+    "carbon": 100.0,
+    "lipid": 36.3,
+    "genre": "rice",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/gyumeshi/gyu_negitama_hp_230919.html"
+  },
+  {
+    "name": "鬼おろしポン酢牛めし",
+    "allergens": [
+      "wheat"
+    ],
+    "price": 520,
+    "energy": 739.0,
+    "carbon": 96.3,
+    "lipid": 29.1,
+    "genre": "rice",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/gyumeshi/gyu_onioroshi_hp_230214.html"
+  },
+  {
+    "name": "チーズ牛めし",
+    "allergens": [
+      "wheat",
+      "milk"
+    ],
+    "price": 560,
+    "energy": 901.0,
+    "carbon": 93.2,
+    "lipid": 44.1,
+    "genre": "rice",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/gyumeshi/gyu_cheese_hp_230919.html"
+  },
+  {
+    "name": "キムチ牛めし",
+    "allergens": [
+      "wheat",
+      "shrimps"
+    ],
+    "price": 470,
+    "energy": 764.0,
+    "carbon": 100.5,
+    "lipid": 29.8,
+    "genre": "rice",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/gyumeshi/gyu_kimuchi_hp_230919.html"
+  },
+  {
+    "name": "ネギねぎ牛めし",
+    "allergens": [
+      "wheat"
+    ],
+    "price": 520,
+    "energy": 823.0,
+    "carbon": 97.9,
+    "lipid": 37.4,
+    "genre": "rice",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/gyumeshi/gyu_neginegi_hp_230321.html"
+  },
+  {
+    "name": "ネギとろろ牛めし",
+    "allergens": [
+      "wheat"
+    ],
+    "price": 600,
+    "energy": 855.0,
+    "carbon": 104.9,
+    "lipid": 37.3,
+    "genre": "rice",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/gyumeshi/gyu_negitoro_hp_230919.html"
+  },
+  {
+    "name": "牛めしトリオ並盛弁当セット",
+    "allergens": [
+      "wheat",
+      "egg"
+    ],
+    "price": 1330,
+    "energy": 2193.0,
+    "carbon": 276.8,
+    "lipid": 90.5,
+    "genre": "rice",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/hp/torio_gyu_hp_240116.html"
+  },
+  {
+    "name": "松屋ビーフカレー",
+    "allergens": [
+      "wheat",
+      "milk"
+    ],
+    "price": 580,
+    "energy": 780.0,
+    "carbon": 108.6,
+    "lipid": 27.8,
+    "genre": "curry",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/curry/cry_beef_hp_230829.html"
+  },
+  {
+    "name": "チーズかけビーフカレー",
+    "allergens": [
+      "wheat",
+      "milk"
+    ],
+    "price": 780,
+    "energy": 965.0,
+    "carbon": 110.2,
+    "lipid": 42.9,
+    "genre": "curry",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/curry/cry_cheese_beef_hp_230919.html"
+  },
+  {
+    "name": "ビーフカレギュウ",
+    "allergens": [
+      "wheat",
+      "milk"
+    ],
+    "price": 830,
+    "energy": 1073.0,
+    "carbon": 112.0,
+    "lipid": 54.7,
+    "genre": "curry",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/curry/cry_beef_gyu_hp_230829.html"
+  },
+  {
+    "name": "ハンバーグビーフカレー",
+    "allergens": [
+      "wheat",
+      "egg",
+      "milk"
+    ],
+    "price": 830,
+    "energy": 1050.0,
+    "carbon": 121.6,
+    "lipid": 45.0,
+    "genre": "curry",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/curry/cry_beef_hb_hp_230829.html"
+  },
+  {
+    "name": "松屋特製ロースかつビーフカレー",
+    "allergens": [
+      "wheat",
+      "egg",
+      "milk"
+    ],
+    "price": 870,
+    "energy": 1223.0,
+    "carbon": 132.8,
+    "lipid": 58.1,
+    "genre": "curry",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/curry/cry_beef_rosu_hp_230830.html"
+  },
+  {
+    "name": "うな丼",
+    "allergens": [
+      "wheat"
+    ],
+    "price": 980,
+    "energy": 687.0,
+    "carbon": 97.9,
+    "lipid": 18.8,
+    "genre": "rice",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/unadon/don_una_hp_240618.html"
+  },
+  {
+    "name": "うな丼ダブル",
+    "allergens": [
+      "wheat"
+    ],
+    "price": 1680,
+    "energy": 939.0,
+    "carbon": 104.2,
+    "lipid": 35.6,
+    "genre": "rice",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/unadon/don_una_w_hp_240618.html"
+  },
+  {
+    "name": "うな丼トリプル",
+    "allergens": [
+      "wheat"
+    ],
+    "price": 2380,
+    "energy": 1359.0,
+    "carbon": 147.5,
+    "lipid": 52.7,
+    "genre": "rice",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/unadon/don_una_triple_hp_240618.html"
+  },
+  {
+    "name": "うなぎコンボ牛めし",
+    "allergens": [
+      "wheat"
+    ],
+    "price": 1180,
+    "energy": 916.0,
+    "carbon": 100.5,
+    "lipid": 39.8,
+    "genre": "rice",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/unadon/unagi_combo_gyu_hp_240618.html"
+  },
+  {
+    "name": "うなぎコンボ牛めしダブル",
+    "allergens": [
+      "wheat"
+    ],
+    "price": 1880,
+    "energy": 1168.0,
+    "carbon": 106.7,
+    "lipid": 56.6,
+    "genre": "rice",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/unadon/unagi_combo_gyu_w_hp_240618.html"
+  },
+  {
+    "name": "うなぎコンボ牛めしトリプル",
+    "allergens": [
+      "wheat"
+    ],
+    "price": 2580,
+    "energy": 1588.0,
+    "carbon": 150.1,
+    "lipid": 73.7,
+    "genre": "rice",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/unadon/unagi_combo_gyu_triple_hp_240618.html"
+  },
+  {
+    "name": "うなぎ牛皿",
+    "allergens": [
+      "wheat"
+    ],
+    "price": 1050,
+    "energy": 481.0,
+    "carbon": 8.8,
+    "lipid": 37.8,
+    "genre": "rice",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/unadon/okazu_unagi_gyu_hp_240618.html"
+  },
+  {
+    "name": "スタミナ豚バラ炒め定食",
+    "allergens": [
+      "wheat"
+    ],
+    "price": 780,
+    "energy": 733.0,
+    "carbon": 102.5,
+    "lipid": 25.7,
+    "genre": "rice",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/teishoku/tei_buta_sutamina_hp_240709.html"
+  },
+  {
+    "name": "極厚200gトンテキ定食",
+    "allergens": [
+      "wheat",
+      "milk"
+    ],
+    "price": 1090,
+    "energy": 881.0,
+    "carbon": 113.4,
+    "lipid": 23.9,
+    "genre": "rice",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/teishoku/tei_tonteki_hp_240611.html"
+  },
+  {
+    "name": "牛焼肉定食（ネギ・おろし付）",
+    "allergens": [],
+    "price": 790,
+    "energy": 748.0,
+    "carbon": 92.3,
+    "lipid": 29.9,
+    "genre": "rice",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/teishoku/tei_gyuuyaki_hp_240402.html"
+  },
+  {
+    "name": "カルビ焼肉定食（ネギ・おろし付）",
+    "allergens": [
+      "wheat"
+    ],
+    "price": 830,
+    "energy": 888.0,
+    "carbon": 96.4,
+    "lipid": 41.0,
+    "genre": "rice",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/teishoku/tei_karubi_hp_240402.html"
+  },
+  {
+    "name": "豚カルビ焼肉定食（ネギ・おろし付）",
+    "allergens": [],
+    "price": 650,
+    "energy": 673.0,
+    "carbon": 91.9,
+    "lipid": 25.3,
+    "genre": "rice",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/teishoku/tei_buta_hp_240206.html"
+  },
+  {
+    "name": "鬼おろし＜焼肉小鉢＞",
+    "allergens": [],
+    "price": 100,
+    "energy": 9.0,
+    "carbon": 2.4,
+    "lipid": 0.1,
+    "genre": "rice",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/teishoku/kobachi_onioroshi_hp_230919.html"
+  },
+  {
+    "name": "ネギたま＜焼肉小鉢＞",
+    "allergens": [
+      "wheat",
+      "egg"
+    ],
+    "price": 100,
+    "energy": 131.0,
+    "carbon": 8.5,
+    "lipid": 7.3,
+    "genre": "rice",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/teishoku/kobachi_negitama_hp_230919.html"
+  },
+  {
+    "name": "ネギねぎ＜焼肉小鉢＞",
+    "allergens": [
+      "wheat"
+    ],
+    "price": 100,
+    "energy": 108.0,
+    "carbon": 6.3,
+    "lipid": 8.4,
+    "genre": "rice",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/teishoku/kobachi_neginegi_hp_230919.html"
+  },
+  {
+    "name": "チミチュリソースハンバーグ定食",
+    "allergens": [
+      "wheat",
+      "egg",
+      "milk"
+    ],
+    "price": 830,
+    "energy": 1045.0,
+    "carbon": 114.2,
+    "lipid": 51.6,
+    "genre": "rice",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/teishoku/tei_chimichurri_hb_hp_240521.html"
+  },
+  {
+    "name": "エッグチミチュリソースハンバーグ定食",
+    "allergens": [
+      "wheat",
+      "egg",
+      "milk"
+    ],
+    "price": 880,
+    "energy": 1134.0,
+    "carbon": 114.3,
+    "lipid": 58.4,
+    "genre": "rice",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/teishoku/tei_chimichurri_hb_egg_hp_240521.html"
+  },
+  {
+    "name": "チーズチミチュリソースハンバーグ定食",
+    "allergens": [
+      "wheat",
+      "egg",
+      "milk"
+    ],
+    "price": 990,
+    "energy": 1231.0,
+    "carbon": 115.8,
+    "lipid": 66.8,
+    "genre": "rice",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/teishoku/tei_chimichurri_hb_cheese_hp_240521.html"
+  },
+  {
+    "name": "ブラウンソースハンバーグ定食",
+    "allergens": [
+      "wheat",
+      "egg",
+      "milk"
+    ],
+    "price": 830,
+    "energy": 873.0,
+    "carbon": 120.4,
+    "lipid": 30.1,
+    "genre": "rice",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/teishoku/tei_hb_brown_hp_231226.html"
+  },
+  {
+    "name": "ブラウンソースエッグハンバーグ定食",
+    "allergens": [
+      "wheat",
+      "egg",
+      "milk"
+    ],
+    "price": 880,
+    "energy": 962.0,
+    "carbon": 120.5,
+    "lipid": 36.8,
+    "genre": "rice",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/teishoku/tei_hb_brown_egg_hp_231226.html"
+  },
+  {
+    "name": "ブラウンソースチーズハンバーグ定食",
+    "allergens": [
+      "wheat",
+      "egg",
+      "milk"
+    ],
+    "price": 990,
+    "energy": 1059.0,
+    "carbon": 122.0,
+    "lipid": 45.2,
+    "genre": "rice",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/teishoku/tei_hb_brown_cheese_hp_231226.html"
+  },
+  {
+    "name": "“炙り”焼鮭定食",
+    "allergens": [
+      "wheat"
+    ],
+    "price": 730,
+    "energy": 690.0,
+    "carbon": 95.2,
+    "lipid": 22.3,
+    "genre": "rice",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/teishoku/tei_aburi_sake_hp_231017.html"
+  },
+  {
+    "name": "スタミナ豚バラ炒め生野菜セット",
+    "allergens": [
+      "wheat"
+    ],
+    "price": 750,
+    "energy": 364.0,
+    "carbon": 20.9,
+    "lipid": 25.1,
+    "genre": "bento",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/low_carbohydrate/rokabo_buta_sutamina_hp_240709.html"
+  },
+  {
+    "name": "牛焼肉生野菜セット",
+    "allergens": [],
+    "price": 760,
+    "energy": 378.0,
+    "carbon": 10.7,
+    "lipid": 29.3,
+    "genre": "bento",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/low_carbohydrate/rokabo_gyuuyaki_hp_240402.html"
+  },
+  {
+    "name": "カルビ焼肉生野菜セット",
+    "allergens": [
+      "wheat"
+    ],
+    "price": 800,
+    "energy": 519.0,
+    "carbon": 14.8,
+    "lipid": 40.3,
+    "genre": "bento",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/low_carbohydrate/rokabo_karubi_hp_240402.html"
+  },
+  {
+    "name": "豚カルビ焼肉生野菜セット",
+    "allergens": [],
+    "price": 620,
+    "energy": 303.0,
+    "carbon": 10.2,
+    "lipid": 24.7,
+    "genre": "bento",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/low_carbohydrate/rokabo_buta_hp_240206.html"
+  },
+  {
+    "name": "チミチュリソースハンバーグ生野菜セット",
+    "allergens": [
+      "wheat",
+      "egg",
+      "milk"
+    ],
+    "price": 800,
+    "energy": 676.0,
+    "carbon": 32.6,
+    "lipid": 51.0,
+    "genre": "bento",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/low_carbohydrate/rokabo_chimichurri_hb_hp_240521.html"
+  },
+  {
+    "name": "エッグチミチュリソースハンバーグ生野菜セット",
+    "allergens": [
+      "wheat",
+      "egg",
+      "milk"
+    ],
+    "price": 850,
+    "energy": 764.0,
+    "carbon": 32.7,
+    "lipid": 57.7,
+    "genre": "bento",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/low_carbohydrate/rokabo_chimichurri_hb_egg_hp_240521.html"
+  },
+  {
+    "name": "チーズチミチュリソースハンバーグ生野菜セット",
+    "allergens": [
+      "wheat",
+      "egg",
+      "milk"
+    ],
+    "price": 960,
+    "energy": 861.0,
+    "carbon": 34.2,
+    "lipid": 66.1,
+    "genre": "bento",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/low_carbohydrate/rokabo_chimichurri_hb_cheese_hp_240521.html"
+  },
+  {
+    "name": "ブラウンソースハンバーグ生野菜セット",
+    "allergens": [
+      "wheat",
+      "egg",
+      "milk"
+    ],
+    "price": 800,
+    "energy": 504.0,
+    "carbon": 38.8,
+    "lipid": 29.4,
+    "genre": "bento",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/low_carbohydrate/rokabo_hb_brown_hp_231226.html"
+  },
+  {
+    "name": "ブラウンソースエッグハンバーグ生野菜セット",
+    "allergens": [
+      "wheat",
+      "egg",
+      "milk"
+    ],
+    "price": 850,
+    "energy": 592.0,
+    "carbon": 38.9,
+    "lipid": 36.1,
+    "genre": "bento",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/low_carbohydrate/rokabo_hb_brown_egg_hp_231226.html"
+  },
+  {
+    "name": "ブラウンソースチーズハンバーグ生野菜セット",
+    "allergens": [
+      "wheat",
+      "egg",
+      "milk"
+    ],
+    "price": 960,
+    "energy": 690.0,
+    "carbon": 40.4,
+    "lipid": 44.5,
+    "genre": "bento",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/low_carbohydrate/rokabo_hb_brown_cheese_hp_231226.html"
+  },
+  {
+    "name": "牛めしランチセット",
+    "allergens": [
+      "wheat"
+    ],
+    "price": 470,
+    "energy": 739.0,
+    "carbon": 96.7,
+    "lipid": 29.2,
+    "genre": "rice",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/lunch/lunch_gyu_yasai_hp_230919.html"
+  },
+  {
+    "name": "ネギたま牛めしランチセット",
+    "allergens": [
+      "wheat",
+      "egg"
+    ],
+    "price": 600,
+    "energy": 870.0,
+    "carbon": 105.2,
+    "lipid": 36.5,
+    "genre": "rice",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/lunch/lunch_gyu_negitama_yasai_hp_230919.html"
+  },
+  {
+    "name": "鬼おろしポン酢牛めしランチセット",
+    "allergens": [
+      "wheat"
+    ],
+    "price": 570,
+    "energy": 763.0,
+    "carbon": 101.5,
+    "lipid": 29.4,
+    "genre": "rice",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/lunch/lunch_gyu_onioroshi_yasai_hp_230919.html"
+  },
+  {
+    "name": "チーズ牛めしランチセット",
+    "allergens": [
+      "wheat",
+      "milk"
+    ],
+    "price": 610,
+    "energy": 925.0,
+    "carbon": 98.4,
+    "lipid": 44.3,
+    "genre": "rice",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/lunch/lunch_gyu_cheese_yasai_hp_240402.html"
+  },
+  {
+    "name": "キムチ牛めしランチセット",
+    "allergens": [
+      "wheat",
+      "shrimps"
+    ],
+    "price": 520,
+    "energy": 788.0,
+    "carbon": 105.6,
+    "lipid": 30.0,
+    "genre": "rice",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/lunch/lunch_gyu_kimuchi_yasai_hp_240402.html"
+  },
+  {
+    "name": "ネギとろろ牛めしランチセット",
+    "allergens": [
+      "wheat"
+    ],
+    "price": 650,
+    "energy": 879.0,
+    "carbon": 110.1,
+    "lipid": 37.5,
+    "genre": "rice",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/lunch/lunch_gyu_negitoro_yasai_hp_240402.html"
+  },
+  {
+    "name": "ビーフカレーランチセット",
+    "allergens": [
+      "wheat",
+      "milk"
+    ],
+    "price": 650,
+    "energy": 804.0,
+    "carbon": 113.7,
+    "lipid": 28.0,
+    "genre": "curry",
+    "image_url": "https://www.matsuyafoods.co.jp/matsuya/img/common/logo.png",
+    "url": "https://www.matsuyafoods.co.jp/matsuya/menu/lunch/lunch_cry_beef_yasai_hp_230919.html"
+  }
+]

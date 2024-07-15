@@ -6,7 +6,7 @@
       "wheat",
       "egg"
     ],
-    "genle": "rice",
+    "genre": "rice",
     "energy": 219,
     "store": [
       "sevenEleven"
@@ -21,7 +21,7 @@
       "wheat",
       "shrimps"
     ],
-    "genle": "rice",
+    "genre": "rice",
     "energy": 241,
     "store": [
       "sevenEleven"
@@ -31,7 +31,7 @@
     "name": "手巻おにぎり　具たっぷり辛子明太子",
     "price": 175,
     "allergens": [],
-    "genle": "rice",
+    "genre": "rice",
     "energy": 172,
     "store": [
       "sevenEleven"
@@ -43,7 +43,7 @@
     "allergens": [
       "wheat"
     ],
-    "genle": "rice",
+    "genre": "rice",
     "energy": 175,
     "store": [
       "sevenEleven"
@@ -55,7 +55,7 @@
     "allergens": [
       "wheat"
     ],
-    "genle": "rice",
+    "genre": "rice",
     "energy": 178,
     "store": [
       "sevenEleven"
@@ -70,7 +70,7 @@
       "wheat",
       "shrimps"
     ],
-    "genle": "rice",
+    "genre": "rice",
     "energy": 249,
     "store": [
       "sevenEleven"
@@ -80,7 +80,7 @@
     "name": "手巻おにぎり　熟成旨味仕立て紀州南高梅",
     "price": 125,
     "allergens": [],
-    "genle": "rice",
+    "genre": "rice",
     "energy": 166,
     "store": [
       "sevenEleven"
@@ -90,7 +90,7 @@
     "name": "手巻おにぎり　炭火焼熟成紅しゃけ",
     "price": 175,
     "allergens": [],
-    "genle": "rice",
+    "genre": "rice",
     "energy": 175,
     "store": [
       "sevenEleven"
@@ -102,7 +102,7 @@
     "allergens": [
       "wheat"
     ],
-    "genle": "rice",
+    "genre": "rice",
     "energy": 172,
     "store": [
       "sevenEleven"
@@ -115,7 +115,7 @@
       "wheat",
       "egg"
     ],
-    "genle": "rice",
+    "genre": "rice",
     "energy": 259,
     "store": [
       "sevenEleven"
