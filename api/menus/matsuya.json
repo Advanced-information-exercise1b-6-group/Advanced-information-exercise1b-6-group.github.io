@@ -118,7 +118,7 @@
     "energy": 856.0,
     "carbon": 98.9,
     "lipid": 40.2,
-    "genre": "curry",
+    "genre": "rice",
     "image_url": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_chicken_hp_240716.jpg",
     "url": "https://www.matsuyafoods.co.jp/matsuya/menu/curry/ori_chicken_hp_240716.html"
   },
@@ -133,7 +133,7 @@
     "energy": 1042.0,
     "carbon": 100.6,
     "lipid": 55.3,
-    "genre": "curry",
+    "genre": "rice",
     "image_url": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_chicken_cheese_hp_240716.jpg",
     "url": "https://www.matsuyafoods.co.jp/matsuya/menu/curry/ori_chicken_cheese_hp_240716.html"
   },
@@ -148,7 +148,7 @@
     "energy": 1150.0,
     "carbon": 102.3,
     "lipid": 67.1,
-    "genre": "curry",
+    "genre": "rice",
     "image_url": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_chicken_gyuu_hp_240716.jpg",
     "url": "https://www.matsuyafoods.co.jp/matsuya/menu/curry/ori_chicken_gyu_hp_240716.html"
   },
@@ -164,7 +164,7 @@
     "energy": 1126.0,
     "carbon": 111.9,
     "lipid": 57.4,
-    "genre": "curry",
+    "genre": "rice",
     "image_url": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_chicken_hb_hp_240716.jpg",
     "url": "https://www.matsuyafoods.co.jp/matsuya/menu/curry/ori_chicken_hb_hp_240716.html"
   },
@@ -179,7 +179,7 @@
     "energy": 946.0,
     "carbon": 107.6,
     "lipid": 44.2,
-    "genre": "curry",
+    "genre": "rice",
     "image_url": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_chicken_natto_hp_240716.jpg",
     "url": "https://www.matsuyafoods.co.jp/matsuya/menu/curry/ori_chicken_neginatto_hp_240716.html"
   },
@@ -195,7 +195,7 @@
     "energy": 1012.0,
     "carbon": 99.9,
     "lipid": 52.2,
-    "genre": "curry",
+    "genre": "rice",
     "image_url": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_chicken_egg_sausage_hp_240716.jpg",
     "url": "https://www.matsuyafoods.co.jp/matsuya/menu/curry/ori_chicken_sauegg_hp_240716.html"
   },
@@ -210,7 +210,7 @@
     "energy": 1364.0,
     "carbon": 100.6,
     "lipid": 84.4,
-    "genre": "curry",
+    "genre": "rice",
     "image_url": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_chicken_butakarubi_hp_240716.jpg",
     "url": "https://www.matsuyafoods.co.jp/matsuya/menu/curry/ori_chicken_buta_karubi_hp_240716.html"
   },
@@ -225,7 +225,7 @@
     "energy": 1310.0,
     "carbon": 103.6,
     "lipid": 78.9,
-    "genre": "curry",
+    "genre": "rice",
     "image_url": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_chicken_karubi_hp_240716.jpg",
     "url": "https://www.matsuyafoods.co.jp/matsuya/menu/curry/ori_chicken_karubi_hp_240716.html"
   },
@@ -240,7 +240,7 @@
     "energy": 1170.0,
     "carbon": 99.5,
     "lipid": 67.9,
-    "genre": "curry",
+    "genre": "rice",
     "image_url": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_chicken_gyuuyaki_hp_240716.jpg",
     "url": "https://www.matsuyafoods.co.jp/matsuya/menu/curry/ori_chicken_gyuuyaki_hp_240716.html"
   },
@@ -256,7 +256,7 @@
     "energy": 1299.0,
     "carbon": 123.2,
     "lipid": 70.5,
-    "genre": "curry",
+    "genre": "rice",
     "image_url": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_chicken_rosu_hp_240716.jpg",
     "url": "https://www.matsuyafoods.co.jp/matsuya/menu/curry/cry_chicken_rosu_hp_240716.html"
   },
@@ -733,7 +733,7 @@
     "energy": 880.0,
     "carbon": 104.1,
     "lipid": 40.4,
-    "genre": "curry",
+    "genre": "rice",
     "image_url": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_chicken_yasai_hp_240716.jpg",
     "url": "https://www.matsuyafoods.co.jp/matsuya/menu/lunch/lunch_ori_chicken_hp_240716.html"
   }
